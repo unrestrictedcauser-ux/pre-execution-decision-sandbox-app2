@@ -1,4 +1,4 @@
-# pre-execution-decision-sandbox-app2
+ pre-execution-decision-sandbox-app2
 The Pre-Execution Decision Sandbox is a runnable prototype of a Dual-Engine Decision Simulation Platform. It is designed to examine a decision before execution by taking structured decision inputs, evaluating them through independent analytical engines, and producing a synthesis of the resulting analyses.
 The application is being developed as the executable implementation of the concepts and architecture defined in the original Pre-Execution Decision Sandbox project. The prototype focuses first on establishing an actual working execution path rather than attempting to implement the complete platform at once.
 The initial application will accept a decision, its premises, variables, and constraints; execute the decision through two distinct analytical paths; preserve the individual outputs; and produce a synthesis that makes the differences, agreements, uncertainty, and relevant risks visible.
